@@ -1,4 +1,4 @@
 # demo
-Hi I am tring to understand how guthub work.
+Hi I am tring to understand how github works.
 <br>
 author Muneeba 
